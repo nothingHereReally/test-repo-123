@@ -8,3 +8,4 @@
 - item 4
 - item 5
 - item 6
+![some pic](/test.png)

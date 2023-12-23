@@ -11,4 +11,8 @@
 
 <hr>
 
+hello world, this is someone ambot, blah blah blah blah blah
+ahh, there was someone, who knows somebody of someone,
+from something, something of someone blah
+
 ![some pic](/test.png)

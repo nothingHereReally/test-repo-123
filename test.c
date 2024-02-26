@@ -22,6 +22,7 @@ int main(int argc, char** argv){
 	printf("another try of GPG info same with GIT CONFIG USER.*\n");
 	printf("another try of GPG info same with GIT CONFIG USER.*\n");
 	printf("another try of GPG info same with GIT CONFIG USER.*\n");
+	printf("another try of GPG info same with GIT CONFIG USER.*\n");
 
 	return 0;
 }

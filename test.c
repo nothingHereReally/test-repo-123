@@ -28,6 +28,8 @@ int main(int argc, char** argv){
 	printf("testing creating branch002\n");
 	printf("for later to merge, will not use pull request for this one\n");
 	printf("something from branch001 testing on branching\n");
+	printf("============================\n");
+	printf("testing write on branch main\n");
 
 	return 0;
 }

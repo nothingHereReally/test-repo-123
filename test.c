@@ -9,6 +9,7 @@ int main(int argc, char** argv){
 	printf("hello from gpg sign something\n");
 	printf("hello from gpg sign something\n");
 	printf("hello from gpg sign something 999 99 9\n");
+	printf("hello from gpg sign just '-S GPGKEYFINGERPRINT' no file.extension\n");
 
 	return 0;
 }

@@ -18,6 +18,8 @@ int main(int argc, char** argv){
 	printf("== with git config user.signkey GPGKEYIDNOTWHOLEFINGERPRINT\n");
 	printf("== with git config commit.gpgsign true\n");
 	printf("== with git config tag.gpgSign true\n");
+	printf("============================\n");
+	printf("another try of GPG info same with GIT CONFIG USER.*\n");
 
 	return 0;
 }

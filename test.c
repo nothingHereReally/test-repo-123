@@ -30,6 +30,8 @@ int main(int argc, char** argv){
 	printf("something from branch001 testing on branching\n");
 	printf("============================\n");
 	printf("testing write on branch main\n");
+	printf("============================\n");
+	printf("testing conflect on branch\n");
 
 	return 0;
 }

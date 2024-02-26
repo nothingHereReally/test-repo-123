@@ -31,7 +31,16 @@ int main(int argc, char** argv){
 	printf("============================\n");
 	printf("testing write on branch main\n");
 	printf("============================\n");
+
+
+
+
 	printf("ladida ahhh testing conflict main and branch003, now see conflict\n");
+	printf("testing conflect on branch\n");
+	/* above 2 lines conflict on same line( current line - 6 = 34) */
+	/* both two shall not have it */
+
+
 
 	return 0;
 }

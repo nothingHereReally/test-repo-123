@@ -9,7 +9,9 @@ int main(int argc, char** argv){
 	printf("hello from gpg sign something\n");
 	printf("hello from gpg sign something\n");
 	printf("hello from gpg sign something 999 99 9\n");
-	printf("hello from gpg sign just '-S GPGKEYFINGERPRINT' no file.extension\n");
+	printf("hello from gpg sign just NOT '-S GPGKEYFINGERPRINT' no file.extension\n");
+	printf("hello but this 'git config user.' no file.extension\n");
+	printf("hello world\n");
 
 	return 0;
 }

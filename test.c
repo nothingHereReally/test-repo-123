@@ -23,6 +23,9 @@ int main(int argc, char** argv){
 	printf("another try of GPG info same with GIT CONFIG USER.*\n");
 	printf("another try of GPG info same with GIT CONFIG USER.*\n");
 	printf("another try of GPG info same with GIT CONFIG USER.*\n");
+	printf("something from branch001 testing on branching\n");
+	printf("something from branch001 testing on branching\n");
+	printf("something from branch001 testing on branching\n");
 
 	return 0;
 }

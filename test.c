@@ -39,6 +39,7 @@ int main(int argc, char** argv){
 	printf("testing conflect on branch\n");
 	/* above 2 lines conflict on same line( current line - 6 = 34) */
 	/* both two shall not have it */
+	printf("ladida test on git add and git reset");
 
 
 

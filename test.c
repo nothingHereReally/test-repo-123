@@ -23,6 +23,8 @@ int main(int argc, char** argv){
 	printf("another try of GPG info same with GIT CONFIG USER.*\n");
 	printf("another try of GPG info same with GIT CONFIG USER.*\n");
 	printf("another try of GPG info same with GIT CONFIG USER.*\n");
+	printf("testing creating branch002\n");
+	printf("for later to merge, will not use pull request for this one\n");
 
 	return 0;
 }

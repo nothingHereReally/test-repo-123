@@ -38,8 +38,10 @@ int main(int argc, char** argv){
 	printf("ladida ahhh testing conflict main and branch003, now see conflict\n");
 	printf("testing conflect on branch\n");
 	printf("testing conflect on branch004 on purpose\n");
+	printf("ladida here is where conflict should be from main branch");
 	/* above 2 lines conflict on same line( current line - 6 = 34) */
 	/* both two shall not have it */
+	printf("ladida test on git add and git reset");
 
 
 

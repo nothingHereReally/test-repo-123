@@ -12,6 +12,12 @@ int main(int argc, char** argv){
 	printf("hello from gpg sign just NOT '-S GPGKEYFINGERPRINT' no file.extension\n");
 	printf("hello but this 'git config user.' no file.extension\n");
 	printf("hello world\n");
+	printf("ladida this is now gpg key REAL NAME and EMAIL\n");
+	printf("== same with git config user.name\n");
+	printf("== same with git config user.email\n");
+	printf("== with git config user.signkey GPGKEYIDNOTWHOLEFINGERPRINT\n");
+	printf("== with git config commit.gpgsign true\n");
+	printf("== with git config tag.gpgSign true\n");
 
 	return 0;
 }

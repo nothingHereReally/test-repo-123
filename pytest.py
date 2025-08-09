@@ -16,4 +16,5 @@ print("|___|  |___|")
 
 for i in range(10):
     print('--'*i)
+    print('something blah blah')
     print(i)

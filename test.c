@@ -41,7 +41,13 @@ int main(int argc, char** argv){
 	printf("ladida here is where conflict should be from main branch");
 	/* above 2 lines conflict on same line( current line - 6 = 34) */
 	/* both two shall not have it */
-	printf("ladida test on git add and git reset");
+	printf("ladida test on git add and git reset\n");
+	printf("------------------------------------\n");
+	printf("------oooooooooooooooooo------------\n");
+	printf("------oooooooo-------ooo------------\n");
+	printf("------oooooooo-------ooo------------\n");
+	printf("------------------------------------\n");
+	printf("------------------------------------\n");
 
 
 

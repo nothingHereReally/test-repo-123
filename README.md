@@ -31,4 +31,7 @@ the great big blue planet
 blah it's night blah
 i don't know what this is
 
+added by folder_2 directory
+blah blah
+
 ![some pic](/test.png)

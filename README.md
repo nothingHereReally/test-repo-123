@@ -16,14 +16,14 @@ ahh, there was someone, who knows somebody of someone,
 from something, something of someone blah
 asdf, i don't know what to do, i am so tired,
 blah blah blah, let's just try to do something
--------------------------------<br>
------------ooooooooooo---------<br>
----------ooooo-----ooooooooo---<br>
---------oooooo----oooooooooo---<br>
--------ooooooooooooooooooooo---<br>
---------ooo----------oooo------<br>
---------oo-----------ooo-------<br>
--------------------------------
+<div>-------------------------------</div>
+<div>-----------ooooooooooo---------</div>
+<div>---------ooooo-----ooooooooo---</div>
+<div>--------oooooo----oooooooooo---</div>
+<div>-------ooooooooooooooooooooo---</div>
+<div>--------ooo----------oooo------</div>
+<div>--------oo-----------ooo-------</div>
+<div>-------------------------------</div>
 i don't know what this is
 
 ![some pic](/test.png)
